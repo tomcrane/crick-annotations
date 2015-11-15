@@ -11,10 +11,10 @@ This contrived example demonstrates the following:
 
 This manifest has all the above:
 
-[wellcome-crick-dna-structure-letter.json]
+[http://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter.json](wellcome-crick-dna-structure-letter.json)
 
 This manifest (which works in Mirador's transcriptions branch) only includes the page 3 transcription annotations, which all have xywh fragment selectors.
 
-[wellcome-crick-dna-structure-letter-mirador.json]
+[http://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter-mirador.json](wellcome-crick-dna-structure-letter-mirador.json)
 
 TODO: provide another commentary annotation list that is NOT declared in the manifest. In this case the user has walked up to the manifest with an annotation list it doesn't know about; a viewer needs to allow a user to load an annotation list from an arbitrary URL or from the local file system (the latter may need assistance from an annotation server to expose the list at a URL).
