@@ -1,0 +1,12 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary/base-pairs.json",
+  "@type": "oa:Annotation",
+  "motivation": "oa:commenting",
+  "resource": {
+    "@type": "cnt:ContentAsText",
+    "format": "text/plain",
+    "chars": "Erwin Chargaff had established experimentally that for all DNA samples the amounts of guanine and cytosine are equal, and the amounts of adenine and thymine are equal. From model building (often using cardboard cutouts), Watson realised that the A-T and C-G pairs are structurally similar. The Chargaff ratios, the structure of the base pairs held together by hydrogen bonds, the helical clues from X-ray crystallography all contributed to the insight that the structure is a double helix. Facing pairs on the inside of the helix match, A to T and C to G. The hydrogen bonds between them allow the helix to be unzipped for replication, and an exact copy is created."
+  },
+  "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2#xywh=359,1978,1750,641"
+}

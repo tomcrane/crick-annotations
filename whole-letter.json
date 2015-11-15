@@ -1,0 +1,19 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/whole-letter.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/whole-letter-anno1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@id": "http://www.thehistoryblog.com/archives/25193",
+        "@type": "dcTypes:text",
+        "format": "text/html",
+        "label": "Article describing the circumstances of the letter"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter.json"
+    }
+  ]
+}

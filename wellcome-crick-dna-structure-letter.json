@@ -31,6 +31,13 @@
   ],
   "attribution": "This material has been provided by Wellcome Library where the originals may be consulted.<br/>License: CC-BY-NC",
   "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "otherContent" : [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/whole-letter.json",
+      "@type": "sc:AnnotationList",
+      "label": "Commentary on the letter"
+    }
+  ],
   "sequences": [
     {
       "@id": "http://wellcomelibrary.org/iiif/b1948799x/sequence/s0",
@@ -145,10 +152,10 @@
             {
               "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription-detailed.json",
               "@type": "sc:AnnotationList",
-              "label": "line transcription of page 3"
+              "label": "Line transcription of page 3"
             },
             {
-              "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary",
+              "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary.json",
               "@type": "sc:AnnotationList",
               "label": "Commentary on page 3"
             }

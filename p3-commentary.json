@@ -1,0 +1,46 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription.json",
+  "@type": "sc:AnnotationList",
+  "label": "Commentary of page 3 of Crick's letter.",
+  "description": "This page has Crick's first drawing of the structure.",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary/sci-m-model",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "https://upload.wikimedia.org/wikipedia/commons/5/50/DNA_Model_Crick-Watson.jpg",
+        "@type": "dcTypes:Image",
+        "format": "image/jpeg",
+        "label": "The model referred to in the letter was dismantled in the 1970s. This model on display in the Science Musuem, London, was reconstructed largely from the original pieces.",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2#xywh=746,600,534,1174"
+    },
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary/crick-watson",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "http://www.thehistoryblog.com/wp-content/uploads/2013/05/Watson-Crick-DNA-model.jpg",
+        "@type": "dcTypes:Image",
+        "format": "image/jpeg",
+        "label": "Crick and Watson pose with the original model. Their later diagram can be seen on the wall behind."
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2#xywh=746,600,534,1174"
+    },
+    {
+      "@context": "http://iiif.io/api/presentation/2/context.json",
+      "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary/base-pairs.json",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Erwin Chargaff had established experimentally that for all DNA samples the amounts of guanine and cytosine are equal, and the amounts of adenine and thymine are equal. From model building (often using cardboard cutouts), Watson realised that the A-T and C-G pairs are structurally similar. The Chargaff ratios, the structure of the base pairs held together by hydrogen bonds, the helical clues from X-ray crystallography all contributed to the insight that the structure is a double helix. Facing pairs on the inside of the helix match, A to T and C to G. The hydrogen bonds between them allow the helix to be unzipped for replication, and an exact copy is created."
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2#xywh=359,1978,1750,641"
+    }
+  ]
+}
