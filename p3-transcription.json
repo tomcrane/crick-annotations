@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "like this\n\n[diagram]\n\nThe model looks *much* nicer than this.\nNow the exciting thing is that while there\nare 4 *different* bases, we find we can only\nput certain pairs of them together. The\nbases have names. They are Adenine, Guanine,\nThymine & Cytosine. I will call them A, G, T\nand C. Now we find that the pairs"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p6-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p6-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "we had one before.\nFor example\n                           A - T\n                           T - A\n                           C - G\n                           A - T\n                           G - C\n                           T - A\n                           T - A\n\n                          chains\n                ↙        separate       ↘\n             A                             T\n             T                             A\n             C                             G\n             A                             T\n             G                             C\n             T                             A\n             T                             A\n                          ↓\n                      new chains form\n\n             A - T                        T - A\n             T - A                        A - T\n             C - G                        G - C\n             A - T                        T - A\n             G - C                        C - G\n             T - A                        A - T\n             T - A                        A - T"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c5"
+    }
+  ]
+}

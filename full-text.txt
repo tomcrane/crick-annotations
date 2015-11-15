@@ -1,0 +1,138 @@
+19 Portugal Place
+Cambridge
+19 March '53
+My Dear Michael,
+Jim Watson and I have probably made a
+most important discovery. We have built a model for
+the structure of des-oxy-ribose-nucleic-acid (read it
+carefully) called D.N.A. for short. You may remember
+that the genes of the chromosomes - which carry the
+hereditary factors - are made up of protein and
+D.N.A.
+Our structure is very beautiful. D.N.A.
+can be thought of roughly as a very long chain
+with flat bits sticking out. The flat
+bits are called the "bases". The formula is rather
+
+
+like this
+
+  |
+sugar ---- base
+  |
+phosphorus
+  |
+sugar ---- base
+  |
+phosphorus
+  |
+sugar ---- base
+  |
+phosphorus
+  |
+sugar ---- base
+  |
+phosphorus
+  |
+and so on.
+
+Now we have *two* of these chains winding
+round each other - each one is a helix - and
+the chain, made up of sugar and phosphorus, is
+on the *outside*, and the bases are all on the
+*inside*. I can't draw it very well, but it looks
+
+
+like this
+
+[diag]
+
+The model looks *much* nicer than this.
+Now the exciting thing is that while there
+are 4 *different* bases, we find we can only
+put certain pairs of them together. The
+bases have names. They are Adenine, Guanine,
+Thymine & Cytosine. I will call them A, G, T
+and C. Now we find that the pairs
+
+
+
+we can make - which have one base from
+one chain joined to one base from another - are
+only A with T
+and G with C.
+Now on one chain, as far as we can see,
+one can have the bases in any order, but if their
+order is *fixed*, then the order on the other
+chain is also fixed. For example, suppose the
+first chain goes ↓ then the second must go
+                 A -  -  -  -  -  -  -  T
+                 T -  -  -  -  -  -  -  A
+                 C -  -  -  -  -  -  -  G
+                 A -  -  -  -  -  -  -  T
+                 G -  -  -  -  -  -  -  C
+                 T -  -  -  -  -  -  -  A
+                 T -  -  -  -  -  -  -  A
+
+
+
+
+It is like a code. If you are given one set of letters
+you can write down the others.
+Now we believe that the D.N.A. *is* a code.
+That is, the order of the bases (the letters)
+makes one gene different from another gene (just
+as one page of print is different from another).
+You can now see how Nature *makes copies of
+the genes*. Because if the two chains unwind
+into two separate chains, and if each chain
+then makes another chain come together on it,
+then because A always goes with T, and
+G with C, we shall get two copies where
+
+
+
+we had one before.
+For example
+                           A - T
+                           T - A
+                           C - G
+                           A - T
+                           G - C
+                           T - A
+                           T - A
+
+                          chains
+                ↙        separate       ↘
+             A                             T
+             T                             A
+             C                             G
+             A                             T
+             G                             C
+             T                             A
+             T                             A
+                          ↓
+                      new chains form
+
+             A - T                        T - A
+             T - A                        A - T
+             C - G                        G - C
+             A - T                        T - A
+             G - C                        C - G
+             T - A                        A - T
+             T - A                        A - T
+
+
+ In other words we think we have found the
+ basic copying mechanism by which life comes from life.
+ The beauty of our model is that the shape of it
+ is such that *only* these pairs can go together,
+ though they could pair up in other ways if they
+ were floating about freely. You can understand
+ that we are very excited. We have to have
+ a letter off to Nature in a day or so.
+ Read this carefully so that you
+ understand it. When you come home we will
+ show you the model.
+ Lots of love,
+ Daddy

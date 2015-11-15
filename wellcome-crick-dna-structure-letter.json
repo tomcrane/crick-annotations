@@ -1,0 +1,296 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter.json",
+  "@type": "sc:Manifest",
+  "label": "Copied letter from Francis Crick to Michael Crick",
+  "metadata": [
+    {
+      "label": "Reference",
+      "value": "PPCRI/D/4/3"
+    },
+    {
+      "label": "Title",
+      "value": "Copied letter from Francis Crick to Michael Crick"
+    },
+    {
+      "label": "Date",
+      "value": "1953"
+    },
+    {
+      "label": "Description",
+      "value": "A copy of the famous letter from Crick to his son Michael explaining his and Watson's discovery of the structure of DNA, 19 March 1953.<p>The letter is the earliest written description of the genetic mechanism, written before Crick and Watson's second <i>Nature</i> paper was drafted."
+    },
+    {
+      "label": "",
+      "value": "<a href='http://search.wellcomelibrary.org/iii/encore/record/C__Rb1948799'>View full catalogue record</a>"
+    },
+    {
+      "label": "Full conditions of use",
+      "value": "You have permission to make copies of this work under a <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/\">Creative Commons, Attribution, Non-commercial license</a>.<br/><br/>Non-commercial use includes private study, academic research, teaching, and other activities that are not primarily intended for, or directed towards, commercial advantage or private monetary compensation. See the <a target=\"_top\" href=\"http://creativecommons.org/licenses/by-nc/4.0/legalcode\">Legal Code</a> for further information.<br/><br/>Image source should be attributed as specified in the full catalogue record. If no source is given the image should be attributed to Wellcome Library."
+    }
+  ],
+  "attribution": "This material has been provided by Wellcome Library where the originals may be consulted.<br/>License: CC-BY-NC",
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "sequences": [
+    {
+      "@id": "http://wellcomelibrary.org/iiif/b1948799x/sequence/s0",
+      "@type": "sc:Sequence",
+      "label": "Sequence s0",
+      "rendering": {
+        "@id": "http://wellcomelibrary.org/pdf/b1948799x/0/b1948799x_0.pdf",
+        "format": "application/pdf",
+        "label": "Download as PDF"
+      },
+      "canvases": [
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "1",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/ce30a1a7-a606-4b5e-b2ad-c13677d3e8f6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/ce30a1a7-a606-4b5e-b2ad-c13677d3e8f6/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/ce30a1a7-a606-4b5e-b2ad-c13677d3e8f6",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c0"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p1-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 1"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "2",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/572eb401-1837-4b62-9125-2bf1e55c3365",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/572eb401-1837-4b62-9125-2bf1e55c3365/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/572eb401-1837-4b62-9125-2bf1e55c3365",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c1"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p2-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 2"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2",
+          "@type": "sc:Canvas",
+          "label": "3",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/9b955204-adc4-417f-b340-0ad9bea63ff6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/9b955204-adc4-417f-b340-0ad9bea63ff6/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/9b955204-adc4-417f-b340-0ad9bea63ff6",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c2"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 3"
+            },
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription-detailed.json",
+              "@type": "sc:AnnotationList",
+              "label": "line transcription of page 3"
+            },
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary",
+              "@type": "sc:AnnotationList",
+              "label": "Commentary on page 3"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c3",
+          "@type": "sc:Canvas",
+          "label": "4",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/3d134dfb-8e62-4ee1-8034-86d28e253e43",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/3d134dfb-8e62-4ee1-8034-86d28e253e43/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/3d134dfb-8e62-4ee1-8034-86d28e253e43",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c3"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p4-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 4"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c4",
+          "@type": "sc:Canvas",
+          "label": "5",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/48784e73-54a0-4d32-a157-51036b411241",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/48784e73-54a0-4d32-a157-51036b411241/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/48784e73-54a0-4d32-a157-51036b411241",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c4"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p5-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 5"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c5",
+          "@type": "sc:Canvas",
+          "label": "6",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/2f239ab4-87b4-4114-97ac-09b7c7f498e7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/2f239ab4-87b4-4114-97ac-09b7c7f498e7/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/2f239ab4-87b4-4114-97ac-09b7c7f498e7",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c5"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p6-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 6"
+            }
+          ]
+        },
+        {
+          "@id": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c6",
+          "@type": "sc:Canvas",
+          "label": "7",
+          "height": 3965,
+          "width": 2643,
+          "images": [
+            {
+              "@id": "http://wellcomelibrary.org/iiif/b1948799x/imageanno/793b32d0-ffae-47c2-9fcc-229e6af793d5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/793b32d0-ffae-47c2-9fcc-229e6af793d5/full/!800,800/0/default.jpg",
+                "@type": "dcTypes:Image",
+                "format": "image/jpeg",
+                "height": 800,
+                "width": 533,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "http://wellcomelibrary.org/iiif-img/b1948799x-0/793b32d0-ffae-47c2-9fcc-229e6af793d5",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c6"
+            }
+          ],
+          "otherContent" : [
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p7-transcription.json",
+              "@type": "sc:AnnotationList",
+              "label": "Transcription of page 7"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

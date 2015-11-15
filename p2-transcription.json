@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p2-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p2-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "like this\n\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nand so on.\n\nNow we have *two* of these chains winding\nround each other - each one is a helix - and\nthe chain, made up of sugar and phosphorus, is\non the *outside*, and the bases are all on the\n*inside*. I can't draw it very well, but it looks"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c1"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+19 Portugal Place\nCambridge\n19 March '53\nMy Dear Michael,\nJim Watson and I have probably made a\nmost important discovery. We have built a model for\nthe structure of des-oxy-ribose-nucleic-acid (read it\ncarefully) called D.N.A. for short. You may remember\nthat the genes of the chromosomes - which carry the\nhereditary factors - are made up of protein and\nD.N.A.\nOur structure is very beautiful. D.N.A.\ncan be thought of roughly as a very long chain\nwith flat bits sticking out. The flat\nbits are called the "bases". The formula is rather
+
+\n\n===========================\n\n
+
+like this\n\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nsugar ---- base\n  |\nphosphorus\n  |\nand so on.\n\nNow we have *two* of these chains winding\nround each other - each one is a helix - and\nthe chain, made up of sugar and phosphorus, is\non the *outside*, and the bases are all on the\n*inside*. I can't draw it very well, but it looks
+
+\n\n===========================\n\n
+
+like this\n\n[diagram]\n\nThe model looks *much* nicer than this.\nNow the exciting thing is that while there\nare 4 *different* bases, we find we can only\nput certain pairs of them together. The\nbases have names. They are Adenine, Guanine,\nThymine & Cytosine. I will call them A, G, T\nand C. Now we find that the pairs
+
+\n\n===========================\n\n
+
+we can make - which have one base from\none chain joined to one base from another - are\nonly A with T\nand G with C.\nNow on one chain, as far as we can see,\none can have the bases in any order, but if their\norder is *fixed*, then the order on the other\nchain is also fixed. For example, suppose the\nfirst chain goes ↓ then the second must go\n                 A -  -  -  -  -  -  -  T\n                 T -  -  -  -  -  -  -  A\n                 C -  -  -  -  -  -  -  G\n                 A -  -  -  -  -  -  -  T\n                 G -  -  -  -  -  -  -  C\n                 T -  -  -  -  -  -  -  A\n                 T -  -  -  -  -  -  -  A
+
+\n\n===========================\n\n
+
+It is like a code. If you are given one set of letters\nyou can write down the others.\nNow we believe that the D.N.A. *is* a code.\nThat is, the order of the bases (the letters)\nmakes one gene different from another gene (just\nas one page of print is different from another).\nYou can now see how Nature *makes copies of\nthe genes*. Because if the two chains unwind\ninto two separate chains, and if each chain\nthen makes another chain come together on it,\nthen because A always goes with T, and\nG with C, we shall get two copies where
+
+\n\n===========================\n\n
+
+we had one before.\nFor example\n                           A - T\n                           T - A\n                           C - G\n                           A - T\n                           G - C\n                           T - A\n                           T - A\n\n                          chains\n                ↙        separate       ↘\n             A                             T\n             T                             A\n             C                             G\n             A                             T\n             G                             C\n             T                             A\n             T                             A\n                          ↓\n                      new chains form\n\n             A - T                        T - A\n             T - A                        A - T\n             C - G                        G - C\n             A - T                        T - A\n             G - C                        C - G\n             T - A                        A - T\n             T - A                        A - T
+
+\n\n===========================\n\n
+
+In other words we think we have found the\n basic copying mechanism by which life comes from life.\n The beauty of our model is that the shape of it\n is such that *only* these pairs can go together,\n though they could pair up in other ways if they\n were floating about freely. You can understand\n that we are very excited. We have to have\n a letter off to Nature in a day or so.\n Read this carefully so that you\n understand it. When you come home we will\n show you the model.\n Lots of love,\n Daddy\n

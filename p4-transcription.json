@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p4-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p4-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "we can make - which have one base from\none chain joined to one base from another - are\nonly A with T\nand G with C.\nNow on one chain, as far as we can see,\none can have the bases in any order, but if their\norder is *fixed*, then the order on the other\nchain is also fixed. For example, suppose the\nfirst chain goes ↓ then the second must go\n                 A -  -  -  -  -  -  -  T\n                 T -  -  -  -  -  -  -  A\n                 C -  -  -  -  -  -  -  G\n                 A -  -  -  -  -  -  -  T\n                 G -  -  -  -  -  -  -  C\n                 T -  -  -  -  -  -  -  A\n                 T -  -  -  -  -  -  -  A"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c3"
+    }
+  ]
+}

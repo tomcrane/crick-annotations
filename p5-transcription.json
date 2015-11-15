@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p5-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p5-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "It is like a code. If you are given one set of letters\nyou can write down the others.\nNow we believe that the D.N.A. *is* a code.\nThat is, the order of the bases (the letters)\nmakes one gene different from another gene (just\nas one page of print is different from another).\nYou can now see how Nature *makes copies of\nthe genes*. Because if the two chains unwind\ninto two separate chains, and if each chain\nthen makes another chain come together on it,\nthen because A always goes with T, and\nG with C, we shall get two copies where"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c4"
+    }
+  ]
+}

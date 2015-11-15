@@ -1,0 +1,18 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p7-transcription.json",
+  "@type": "sc:AnnotationList",
+  "resources": [
+    {
+      "@id": "https://tomcrane.github.io/crick-annotations/p7-transcription/fulltext",
+      "@type": "oa:Annotation",
+      "motivation": "sc:painting",
+      "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In other words we think we have found the\n basic copying mechanism by which life comes from life.\n The beauty of our model is that the shape of it\n is such that *only* these pairs can go together,\n though they could pair up in other ways if they\n were floating about freely. You can understand\n that we are very excited. We have to have\n a letter off to Nature in a day or so.\n Read this carefully so that you\n understand it. When you come home we will\n show you the model.\n Lots of love,\n Daddy\n"
+      },
+      "on": "https://tomcrane.github.io/crick-annotations/wellcome-crick-dna-structure-letter/canvas/c6"
+    }
+  ]
+}
