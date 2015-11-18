@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription.json",
+  "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary.json",
   "@type": "sc:AnnotationList",
   "label": "Commentary of page 3 of Crick's letter.",
   "description": "This page has Crick's first drawing of the structure.",

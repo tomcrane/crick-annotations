@@ -127,6 +127,11 @@
               "@id": "https://tomcrane.github.io/crick-annotations/p3-transcription-detailed.json",
               "@type": "sc:AnnotationList",
               "label": "Line transcription of page 3"
+            },
+            {
+              "@id": "https://tomcrane.github.io/crick-annotations/p3-commentary.json",
+              "@type": "sc:AnnotationList",
+              "label": "Commentary"
             }
           ]
         },
